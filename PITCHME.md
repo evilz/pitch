@@ -12,3 +12,7 @@ var RevealMenu = window.RevealMenu || (function(){
 	
  }
  ```
+
+footnote : "<a style='text-decoration: none; color: white;' href='#/12'>Learn More</a>"
+
+
