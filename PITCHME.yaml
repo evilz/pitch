@@ -16,4 +16,4 @@ charts : true
 mathjax : TeX-AMS_HTML-full
 
 
-code-line-numbers : true
+code-line-numbers : false
